@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello Everyone! 👋
 
 <!--
 **aniketmpatil/aniketmpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile! My name is Aniket Patil. I am a Roboticist from India.
+
+Currently, I am a Robotics graduate student at Worcester Polytechnic Institute, MA, USA. I am interested in Robotics and Computer Vision, but I like to explore other areas of Robotics as well in my free time. Speaking of free time, I am also a painter and photographer by passion. 
+
+You can reach me on my [LinkedIn Profile](https://www.linkedin.com/in/aniket-patil97/)
