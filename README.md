@@ -18,18 +18,16 @@ Here are some ideas to get you started:
 ### Education 🎓
 - Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (May 2023)
 - Bachelor of Technology in Instrumentation and Control Engineering, [VIT, Pune, India](https://www.vit.edu/) (2019)
-
-### Key Projects:
+___
+### Key Projects 🔭
 
 - [Semantic Segmentation of LiDAR Point Cloud for Autonomous Vehicles](https://github.com/aniketmpatil/semantic_segmentation)
-
 - [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry)
-
 - [Human-Aware Robot Navigation](https://github.com/dennyboby/human_aware_robot_navigation)
-
-### Contact 
-📫 [LinkedIn Profile](https://www.linkedin.com/in/aniket-patil97/)
-
+___
+### Contact 📫
+[LinkedIn Profile](https://www.linkedin.com/in/aniket-patil97/)
+___
 [![My github stats](https://github-readme-stats.vercel.app/api?username=aniketmpatil&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
