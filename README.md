@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [Human-Aware Robot Navigation](https://github.com/dennyboby/human_aware_robot_navigation)
 
 ### Contact 
-📫 You can reach me on my [LinkedIn Profile](https://www.linkedin.com/in/aniket-patil97/)
+📫 [LinkedIn Profile](https://www.linkedin.com/in/aniket-patil97/)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=aniketmpatil&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
