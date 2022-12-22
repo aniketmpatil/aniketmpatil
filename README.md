@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ___
 ### Key Projects 🔭
 
+- [Depth and Pose Estimation from Monocular Camera Motion](https://github.com/aniketmpatil/sfml)
 - [Semantic Segmentation of LiDAR Point Cloud for Autonomous Vehicles](https://github.com/aniketmpatil/semantic_segmentation)
 - [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry)
 - [Reinforcement Learning for Lane Keeping and Obstacle Avoidance of Autonomous Vehicles](https://github.com/aniketmpatil/RL-Highway-Env-Project)
