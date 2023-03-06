@@ -28,7 +28,9 @@ ___
 - [Human-Aware Robot Navigation](https://github.com/dennyboby/human_aware_robot_navigation)
 ___
 ### Contact 📫
-[LinkedIn Profile](https://www.linkedin.com/in/aniket-patil97/)
+- Website: [aniketmpatil.github.io](https://aniketmpatil.github.io/)
+- LinkedIn: [aniket_patil97](https://www.linkedin.com/in/aniket-patil97/)
+- Email: [apatil2@wpi.edu](mailto:apatil2@wpi.edu)
 ___
 [![My github stats](https://github-readme-stats.vercel.app/api?username=aniketmpatil&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
