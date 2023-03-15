@@ -32,6 +32,9 @@ ___
 - LinkedIn: [aniket_patil97](https://www.linkedin.com/in/aniket-patil97/)
 - Email: [apatil2@wpi.edu](mailto:apatil2@wpi.edu)
 ___
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmpatil&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmpatil" /> </p>
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=aniketmpatil&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
