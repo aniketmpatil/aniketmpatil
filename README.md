@@ -21,11 +21,19 @@ Here are some ideas to get you started:
 ___
 ### Key Projects 🔭
 
-- [Depth and Pose Estimation from Monocular Camera Motion](https://github.com/aniketmpatil/sfml)
-- [Semantic Segmentation of LiDAR Point Cloud for Autonomous Vehicles](https://github.com/aniketmpatil/semantic_segmentation)
-- [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry)
-- [Reinforcement Learning for Lane Keeping and Obstacle Avoidance of Autonomous Vehicles](https://github.com/aniketmpatil/RL-Highway-Env-Project)
-- [Human-Aware Robot Navigation](https://github.com/dennyboby/human_aware_robot_navigation)
+- [Depth and Pose Estimation from Monocular Camera Motion](https://github.com/aniketmpatil/sfml) (Research with [PeAR Group](https://pear.wpi.edu))
+- [Semantic Segmentation of LiDAR Point Cloud for Autonomous Vehicles](https://github.com/aniketmpatil/semantic_segmentation) (Deep Learning)
+- [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry) (Computer Vision)
+- [Reinforcement Learning for Lane Keeping and Obstacle Avoidance of Autonomous Vehicles](https://github.com/aniketmpatil/RL-Highway-Env-Project) (Reinforcement Learning)
+- [Human-Aware Robot Navigation](https://github.com/dennyboby/human_aware_robot_navigation) (Motion Planning)
+- [SCARA Robot ROS Package](https://github.com/aniketmpatil/scara_robot) (ROS Project)
+<!--
+- Motion Planning Algorithm Implementations 
+  - [BFS, DFS, A* and Dijkstra](https://github.com/aniketmpatil/basic-search-algorithms)
+  - [RRT, RRT* and PRM](https://github.com/aniketmpatil/standard-search-algorithms)
+  - [D* and Informed RRT* Algorithms](https://github.com/aniketmpatil/advanced-search-algorithms)
+-->
+
 ___
 ### Contact 📫
 - Website: [aniketmpatil.github.io](https://aniketmpatil.github.io/)
