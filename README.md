@@ -26,6 +26,7 @@ ___
 - [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry) (Computer Vision)
 - [Reinforcement Learning for Lane Keeping and Obstacle Avoidance of Autonomous Vehicles](https://github.com/aniketmpatil/RL-Highway-Env-Project) (Reinforcement Learning)
 - [Human-Aware Robot Navigation](https://github.com/dennyboby/human_aware_robot_navigation) (Motion Planning)
+- [Visual Servoing ROS Package](https://github.com/aniketmpatil/visual_servoing) (Vision Based Manipulation)
 - [SCARA Robot ROS Package](https://github.com/aniketmpatil/scara_robot) (ROS Project)
 <!--
 - Motion Planning Algorithm Implementations 
