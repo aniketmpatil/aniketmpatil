@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a Robotics Software Engineer currently interning at Trossen Robotics. During my master's, I worked on research related to minimalistic vision-based navigation of compact aerial robots with on-board sensing and compute. 
+
 ### Education 🎓
 - Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (Aug 2023)
 - Bachelor of Technology in Instrumentation and Control Engineering, [VIT, Pune, India](https://www.vit.edu/) (May 2019)
