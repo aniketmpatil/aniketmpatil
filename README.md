@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Education 🎓
-- Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (May 2023)
-- Bachelor of Technology in Instrumentation and Control Engineering, [VIT, Pune, India](https://www.vit.edu/) (2019)
+- Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (Aug 2023)
+- Bachelor of Technology in Instrumentation and Control Engineering, [VIT, Pune, India](https://www.vit.edu/) (May 2019)
 ___
 ### Key Projects 🔭
 
