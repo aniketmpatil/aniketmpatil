@@ -39,7 +39,7 @@ ___
 ### Contact 📫
 - Website: [aniketmpatil.github.io](https://aniketmpatil.github.io/)
 - LinkedIn: [aniket_patil97](https://www.linkedin.com/in/aniket-patil97/)
-- Email: [apatil2@wpi.edu](mailto:apatil2@wpi.edu)
+- Email: [apatil2 at wpi dot edu]
 ___
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmpatil&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmpatil" /> </p>
