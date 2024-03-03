@@ -15,27 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Robotics Software Engineer currently interning at Trossen Robotics. During my master's, I worked on research related to minimalistic vision-based navigation of compact aerial robots with on-board sensing and compute. 
+I'm a Robotics (ROS2/C++) Software Intern at Trossen Robotics. I work on the Perception and Localization software for their AgileX-based rover platflorm. During my master's, I worked on research related to minimalistic vision-based navigation of compact aerial robots with on-board sensing and compute.
 
-### Education 🎓
-- Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (Aug 2023)
-- Bachelor of Technology in Instrumentation and Control Engineering, [VIT, Pune, India](https://www.vit.edu/) (May 2019)
+You can also look at my online profile at [https://aniketmpatil.github.io/](https://aniketmpatil.github.io/)
+
+___
+### Research Publications 🔭
+
+- _**Aniket Patil**, Mandeep Singh, Uday Girish Maradana and Nitin J. Sanket_, "MinNav : Minimalist Navigation Using Optical Flow For Active Tiny Aerial Robots"
+  (under review IEEE RA-L) - [Project Webpage](https://pear.wpi.edu/research/minnav.html)
+
 ___
 ### Key Projects 🔭
 
-- [Depth and Pose Estimation from Monocular Camera Motion](https://github.com/aniketmpatil/sfml) (Research with [PeAR Group](https://pear.wpi.edu))
-- [Semantic Segmentation of LiDAR Point Cloud for Autonomous Vehicles](https://github.com/aniketmpatil/semantic_segmentation) (Deep Learning)
-- [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry) (Computer Vision)
-- [Reinforcement Learning for Lane Keeping and Obstacle Avoidance of Autonomous Vehicles](https://github.com/aniketmpatil/RL-Highway-Env-Project) (Reinforcement Learning)
-- [Human-Aware Robot Navigation](https://github.com/dennyboby/human_aware_robot_navigation) (Motion Planning)
-- [Visual Servoing ROS Package](https://github.com/aniketmpatil/visual_servoing) (Vision Based Manipulation)
-- [SCARA Robot ROS Package](https://github.com/aniketmpatil/scara_robot) (ROS Project)
+- [Custom Localization and Navigation Stack for Autonomous Vehicles](https://github.com/Tensor-Robotics/navigation_stack) (Side Project for C++ development)
+- [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry) (Computer Vision, C++)
+- [Classical Structure from Motion Implementation](https://github.com/aniketmpatil/Classical-SfM) (Computer Vision, Python)
+- [Depth and Pose Estimation from Monocular Camera Motion](https://github.com/aniketmpatil/sfml) (Research with [PeAR Group](https://pear.wpi.edu), analysis on SFMLearner and other implementations)
+- [Semantic Segmentation of LiDAR Point Cloud for Autonomous Vehicles](https://github.com/aniketmpatil/semantic_segmentation) (Deep Learning, Computer Vision, Python)
+- [Reinforcement Learning for Lane Keeping and Obstacle Avoidance of Autonomous Vehicles](https://github.com/aniketmpatil/RL-Highway-Env-Project) (Reinforcement Learning, Python)
+- [SCARA Robot ROS Package](https://github.com/aniketmpatil/scara_robot) (Robot Kinematics, ROS, C++, Python)
+- [Human-Aware Robot Navigation](https://github.com/dennyboby/human_aware_robot_navigation) (Motion Planning, ROS, Python)
+- [Visual Servoing ROS Package](https://github.com/aniketmpatil/visual_servoing) (Vision Based Manipulation, Python)
 <!--
 - Motion Planning Algorithm Implementations 
   - [BFS, DFS, A* and Dijkstra](https://github.com/aniketmpatil/basic-search-algorithms)
   - [RRT, RRT* and PRM](https://github.com/aniketmpatil/standard-search-algorithms)
   - [D* and Informed RRT* Algorithms](https://github.com/aniketmpatil/advanced-search-algorithms)
 -->
+
+### Education 🎓
+- Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (Aug 2023)
+- Bachelor of Technology in Instrumentation and Control Engineering, [VIT, Pune, India](https://www.vit.edu/) (May 2019)
 
 ___
 ### Contact 📫
