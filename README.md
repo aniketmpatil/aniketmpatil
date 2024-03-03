@@ -27,7 +27,7 @@ ___
 
 ### Key Projects 🔭
 
-- [Custom Localization and Navigation Stack for Autonomous Vehicles](https://github.com/Tensor-Robotics/navigation_stack) (Side Project for C++ development)
+- [Custom Localization and Navigation Stack for Autonomous Vehicles](https://github.com/Tensor-Robotics/navigation_stack) - (C++)
 - [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry) (Computer Vision, C++)
 - [Classical Structure from Motion Implementation](https://github.com/aniketmpatil/Classical-SfM) (Computer Vision, Python)
 - [Depth and Pose Estimation from Monocular Camera Motion](https://github.com/aniketmpatil/sfml) (Research with [PeAR Group](https://pear.wpi.edu), analysis on SFMLearner and other implementations)
