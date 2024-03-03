@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Robotics (ROS2/C++) Software Intern at Trossen Robotics. I work on the Perception and Localization software for their AgileX-based rover platflorm. During my master's, I worked on research related to minimalistic vision-based navigation of compact aerial robots with on-board sensing and compute.
+I'm a Robotics (ROS2/C++) Software Intern at Trossen Robotics. I work on the Perception and Localization software for their AgileX-based rover platflorm. During my master's, I worked on research related to minimalistic vision-based navigation of compact aerial robots with on-board sensing and compute. Before that, I have over 2 years of work experience working as a Machine Learning Developer, Hardware Interface Intern and Robotics Intern, which gave me a wide variety of skills.
 
 You can also look at my online profile at [https://aniketmpatil.github.io/](https://aniketmpatil.github.io/)
 
@@ -25,7 +25,6 @@ ___
 - _**Aniket Patil**, Mandeep Singh, Uday Girish Maradana and Nitin J. Sanket_, "MinNav : Minimalist Navigation Using Optical Flow For Active Tiny Aerial Robots"
   (under review IEEE RA-L) - [Project Webpage](https://pear.wpi.edu/research/minnav.html)
 
-___
 ### Key Projects 🔭
 
 - [Custom Localization and Navigation Stack for Autonomous Vehicles](https://github.com/Tensor-Robotics/navigation_stack) (Side Project for C++ development)
