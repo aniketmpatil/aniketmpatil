@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Robotics (ROS2/C++) Software Intern at Trossen Robotics. I work on the Perception and Localization software for their AgileX-based rover platflorm. During my master's, I worked on research related to minimalistic vision-based navigation of compact aerial robots with on-board sensing and compute. Before that, I have over 2 years of work experience working as a Machine Learning Developer, Hardware Interface Intern and Robotics Intern, which gave me a wide variety of skills.
+I'm a Robotics (ROS2/C++) Software Engineer at Trossen Robotics. I work on the Perception and Localization software for their AgileX-based rover platflorm. During my master's, I worked on research related to minimalistic vision-based navigation of compact aerial robots with on-board sensing and compute. Before that, I have over 2 years of work experience working as a Machine Learning Developer, Hardware Interface Intern and Robotics Intern, which gave me a wide variety of skills.
 
-You can also look at my online profile at [https://aniketmpatil.github.io/](https://aniketmpatil.github.io/)
+#### Contact 📫
+- Website: [https://aniketmpatil.github.io/](https://aniketmpatil.github.io/)
+- LinkedIn: [aniket_patil97](https://www.linkedin.com/in/aniket-patil97/)
+- Email: [apatil2 at wpi dot edu]
 
 ___
 ### Research Publications 🔭
@@ -43,11 +46,6 @@ ___
   - [D* and Informed RRT* Algorithms](https://github.com/aniketmpatil/advanced-search-algorithms)
 -->
 
-___
-### Contact 📫
-- Website: [aniketmpatil.github.io](https://aniketmpatil.github.io/)
-- LinkedIn: [aniket_patil97](https://www.linkedin.com/in/aniket-patil97/)
-- Email: [apatil2 at wpi dot edu]
 ___
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmpatil&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmpatil" /> </p>
