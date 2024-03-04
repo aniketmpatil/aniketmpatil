@@ -43,10 +43,6 @@ ___
   - [D* and Informed RRT* Algorithms](https://github.com/aniketmpatil/advanced-search-algorithms)
 -->
 
-### Education 🎓
-- Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (Aug 2023)
-- Bachelor of Technology in Instrumentation and Control Engineering, [VIT, Pune, India](https://www.vit.edu/) (May 2019)
-
 ___
 ### Contact 📫
 - Website: [aniketmpatil.github.io](https://aniketmpatil.github.io/)
