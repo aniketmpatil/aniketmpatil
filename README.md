@@ -33,6 +33,7 @@ ___
 - [Custom Localization and Navigation Stack for Autonomous Vehicles](https://github.com/Tensor-Robotics/navigation_stack) - (C++)
 - [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry) (Computer Vision, C++)
 - [Classical Structure from Motion Implementation](https://github.com/aniketmpatil/Classical-SfM) (Computer Vision, Python)
+- [NeRF](https://github.com/aniketmpatil/NeRF) (Computer Vision, Deep Learning, Python)
 - [Depth and Pose Estimation from Monocular Camera Motion](https://github.com/aniketmpatil/sfml) (Research with [PeAR Group](https://pear.wpi.edu), analysis on SFMLearner and other implementations)
 - [Semantic Segmentation of LiDAR Point Cloud for Autonomous Vehicles](https://github.com/aniketmpatil/semantic_segmentation) (Deep Learning, Computer Vision, Python)
 - [Reinforcement Learning for Lane Keeping and Obstacle Avoidance of Autonomous Vehicles](https://github.com/aniketmpatil/RL-Highway-Env-Project) (Reinforcement Learning, Python)
