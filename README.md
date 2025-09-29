@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Robotics (ROS2/C++) Software Engineer at Trossen Robotics. I work on the Perception and Localization software for their AgileX-based rover platflorm. During my master's, I worked on research related to minimalistic vision-based navigation of compact aerial robots with on-board sensing and compute. Before that, I have over 2 years of work experience working as a Machine Learning Developer, Hardware Interface Intern and Robotics Intern, which gave me a wide variety of skills.
+Hi, I’m Aniket Manish Patil — a Research Engineer in the Computer Vision team at Magna New Mobility, where I work on vision-based perception modules for a Last-Mile Delivery Robot. My work spans Traffic Light Recognition, Camera Calibration, Depth Estimation, and 3D Scene Reconstruction, supporting the reliable deployment of autonomous systems.
+
+🔹 I hold a Master’s in Robotics Engineering from WPI, where I focused on minimalistic vision-based navigation for compact aerial robots with on-board sensing and compute. \
+🔹 Earlier, I gained 2+ years of diverse experience as a Machine Learning Developer, Hardware Interface Intern, and Robotics Intern at start-ups in India, working on projects in robotics, image processing, ML, and CAN-based automotive systems.
+
+I’m passionate about advancing robotics perception and autonomy by bridging research and real-world deployment. Here you’ll find my projects and contributions in computer vision, robotics software, and autonomous systems.
 
 #### Contact 📫
 - Website: [https://aniketmpatil.github.io/](https://aniketmpatil.github.io/)
