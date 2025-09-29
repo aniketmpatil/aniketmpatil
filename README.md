@@ -31,7 +31,7 @@ ___
 ### Research Publications 🔭
 
 - _**Aniket Patil**, Mandeep Singh, Uday Girish Maradana and Nitin J. Sanket_, "MinNav : Minimalist Navigation Using Optical Flow For Active Tiny Aerial Robots"
-  (under review IEEE RA-L) - [Project Webpage](https://pear.wpi.edu/research/minnav.html)
+  (under review ICRA) - [Project Webpage](https://pear.wpi.edu/research/minnav.html)
 
 ### Key Projects 🔭
 
